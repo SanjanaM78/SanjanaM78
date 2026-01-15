@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi 👋 I’m Sanjana  <br><br>A Computer Science graduate (2025) aspiring **Analytics Engineer** with a strong foundation in **SQL, Python, data modeling, and backend systems**.<br><br>I enjoy bridging the gap between raw data and business insights by building clean data models, analytical pipelines, and insight-driven applications. I’m particularly interested in working at the intersection of **analytics engineering, data engineering, and product decision-making**.<br><br>🔭 **Currently working on:**  <br>Analytics Engineering projects focused on SQL-based data modeling, transformations, and building business-ready analytics layers using real-world datasets.<br><br>👯 **Looking to collaborate on:**  <br>Analytics Engineering and data-focused projects involving SQL optimization, metric definitions, data transformations, and insight-driven dashboards.<br><br>🤝 **Looking for help with:**  <br>Best practices in analytics engineering workflows, data modeling standards, and structuring analytics projects for production-ready environments.<br><br>🌱 **Currently learning:**  <br>Advanced SQL (CTEs, Window Functions), analytics engineering concepts, data pipeline design, and performance optimization.<br><br>💬 **Ask me about:**  <br>SQL queries and optimization, analytics engineering fundamentals, data modeling for analytics, and Docker-based analytical systems.<br><br>⚡ **Fun fact:**  <br>I enjoy turning messy datasets into clean, insight-ready models — clarity in data feels as satisfying as clean code.<br>
 
-<!--
-**SanjanaM78/SanjanaM78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/9Rxn3dnD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjanam2323) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/sanjana-mahadeva) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjanam843@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SanjanaM78&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SanjanaM78&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaM78&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SanjanaM78&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
